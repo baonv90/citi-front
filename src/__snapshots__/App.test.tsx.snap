@@ -1,0 +1,177 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should match its snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-dlMDgC cFbzzm"
+  >
+    <h1
+      class="sc-kfYoZR PExsb"
+    >
+      Insights
+    </h1>
+    <div
+      class="sc-fujyAs hQJiDC"
+    >
+      <div
+        class="sc-eCApnc lazoQE"
+      >
+        <h3
+          class="sc-jSFjdj gfrjyt"
+        >
+          Device Status
+        </h3>
+        <span
+          class="sc-gKAaRy jQRRgX"
+        >
+          50% of all the devices are connected, 50% are disconnected
+        </span>
+      </div>
+      <div
+        class="sc-eCApnc lazoQE"
+      >
+        <h3
+          class="sc-jSFjdj gfrjyt"
+        >
+          Connection
+        </h3>
+        <span
+          class="sc-gKAaRy jQRRgX"
+        >
+          Of all the disconnected devices, celullar: 100% 
+        </span>
+      </div>
+    </div>
+    <h1
+      class="sc-kfYoZR PExsb"
+    >
+      Devices
+    </h1>
+    <div
+      class="sc-gtsrHT cPlHGU"
+    >
+      <div
+        class="sc-dlnjwi GCjvm"
+      >
+        <div
+          class="sc-bdnxRM ehFXTT"
+        >
+          All Devices
+        </div>
+        <div
+          class="sc-bdnxRM eqRHDi"
+        >
+          Active
+        </div>
+        <div
+          class="sc-bdnxRM eqRHDi"
+        >
+          Inactive
+        </div>
+      </div>
+      <div
+        class="sc-dIvrsQ jGygRc"
+      >
+        <div
+          class="sc-crzoAE sc-fnVZcZ ga-DuxV gfoprS"
+        >
+          <div
+            class="sc-hBMUJo sc-fFSPTT fDRiTP hZtpRi"
+          >
+            Serial Number
+          </div>
+          <div
+            class="sc-hBMUJo sc-fFSPTT fDRiTP hZtpRi"
+          >
+            Status
+          </div>
+          <div
+            class="sc-hBMUJo sc-fFSPTT fDRiTP hZtpRi"
+          >
+            Connection
+          </div>
+          <div
+            class="sc-hBMUJo sc-fFSPTT fDRiTP hZtpRi"
+          >
+            Last update
+          </div>
+        </div>
+        <div
+          class="sc-hHEiqL jwqXKZ"
+        >
+          <div
+            class="sc-iqAclL itlGMy"
+          >
+            <div
+              class="sc-crzoAE ga-DuxV"
+            >
+              <div
+                class="sc-hBMUJo fDRiTP"
+              >
+                Device_0
+              </div>
+              <div
+                class="sc-pNWdM leQrRV"
+              >
+                <div
+                  class="sc-jrsJWt cIQwkY"
+                />
+                <span
+                  class="sc-kEqXSa jYkSXh"
+                >
+                  connected
+                </span>
+              </div>
+              <div
+                class="sc-hBMUJo fDRiTP"
+              >
+                wifi
+              </div>
+              <div
+                class="sc-hBMUJo fDRiTP"
+              >
+                0 hour(s) ago
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-iqAclL itlGMy"
+          >
+            <div
+              class="sc-crzoAE ga-DuxV"
+            >
+              <div
+                class="sc-hBMUJo fDRiTP"
+              >
+                Device_1
+              </div>
+              <div
+                class="sc-pNWdM leQrRV"
+              >
+                <div
+                  class="sc-jrsJWt daRvdX"
+                />
+                <span
+                  class="sc-kEqXSa jYkSXh"
+                >
+                  disconnected
+                </span>
+              </div>
+              <div
+                class="sc-hBMUJo fDRiTP"
+              >
+                celullar
+              </div>
+              <div
+                class="sc-hBMUJo fDRiTP"
+              >
+                0 hour(s) ago
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
